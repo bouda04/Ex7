@@ -1,0 +1,22 @@
+{
+    "this is a fake registration token": {
+        "name": "Arthur Thompson",
+        "registration_token": "this is a fake registration token",
+        "profile_picture_url": "https://lh3.googleusercontent.com/-g6Nw6aKphdQ/AAAAAAAAAAI/AAAAAAABfz0/c7m40bwqmpQ/photo.jpg?sz=50"
+    },
+    "this is another one": {
+        "name": "Benjamin Weiss",
+        "registration_token": "this is another one",
+        "profile_picture_url": "https://lh5.googleusercontent.com/-b8Oxh-bDUMI/AAAAAAAAAAI/AAAAAAAA6bQ/6Qydo6ucsfY/photo.jpg?sz=50"
+    },
+    "same old same old": {
+        "name": "Ian \"The Barb\" Barber",
+        "registration_token": "same old same old",
+        "profile_picture_url": "https://lh6.googleusercontent.com/-DXmOngLN6Gc/AAAAAAAAAAI/AAAAAAAB53c/qcdeDxJerHY/photo.jpg?sz=50"
+    },
+    "1sdasda98342903s;kjgnf22342342w": {
+        "name": "Silvano Luciani",
+        "registration_token": "1sdasda98342903s;kjgnf22342342w",
+        "profile_picture_url": "https://lh5.googleusercontent.com/-RMp-hn38AZI/AAAAAAAAAAI/AAAAAAAAKJ8/xlJ5PU5tD60/photo.jpg?sz=50"
+    }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Ex7</string>
+	<string name="sec_activity">User Information</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+	<string name="press_to_register">Hello, this app will demonstrate the transfer to a second activity and sending results back to this one. Press the button to start.</string>
+	
+</resources>
